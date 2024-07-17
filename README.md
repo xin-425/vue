@@ -2,9 +2,6 @@
 
 > 一个 Vue 的**初/中级**练手项目：重构 CnodeJS 社区
 
-[**预览**](https://heuristic-stonebraker-33e1b8.netlify.com/#/)
-
-![预览图片](static/vue.png)
 
 
 
